@@ -5,7 +5,7 @@ Essa aplicação foi construída durante a imersão Front End da Alura que acont
 A aplicação consiste em fazer um clone do spotify e utilizar uma "fake api" para simular uma busca de artistas.
 
 # INTERFACE FINAL DO PROJETO:
-
+![clone-spotify](https://github.com/deividSantosz/clone-spotify/assets/119541140/ae3533ac-4950-4e14-9f49-01aeb683dba5)
 
 
 # TECNOLOGIAS UTILIZADAS: 
